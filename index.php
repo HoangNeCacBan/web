@@ -1,2 +1,2 @@
 Hello Jenkins
-Lan 1
+Lan 2
