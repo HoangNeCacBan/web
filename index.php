@@ -1,3 +1,3 @@
 Hello Jenkins
-Lan 1
-Hoang thu lan thu 1 
+Lan 2
+Hoang thu lan thu 2
