@@ -1,3 +1,3 @@
 Hello Jenkins
-Lan 666666
-Hoang thu lan thu 666666 
+Lan 1
+Hoang thu lan thu 1 
